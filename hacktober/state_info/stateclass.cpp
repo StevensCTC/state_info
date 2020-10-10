@@ -38,7 +38,7 @@ private:
 void displayStateInfo(State* state) {
     cout << "Name: " << state->getName() << endl;
     cout << "Motto: " << state->getMotto() << endl;
-    cout << "Founded in:" << state->getYearFounded() << endl;
+    cout << "Founded in: " << state->getYearFounded() << endl;
     cout << "Have some fun facts!" << endl;
     state->funFacts();
 };
