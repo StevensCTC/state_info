@@ -12,6 +12,6 @@ int main() {
     nj->addFunFact("Did you know? NJ has the highest density population of any state in the US!");
 
     displayStateInfo(nj);
-
+    
     return 0;
 }
